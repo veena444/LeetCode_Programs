@@ -23,7 +23,7 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
  */
-public class Two_Sum {
+public class TwoSum {
 
 	public static void main(String[] args) {
 		int[] nums = {3,3};
